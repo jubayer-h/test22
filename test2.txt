@@ -1,2 +1,4 @@
+Another time pull test
+
 for pull test
 This is test2.txt 
